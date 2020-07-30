@@ -1,8 +1,10 @@
 # RADIUS-Ubuntu-20.04
-- - - history
-```bash
 
-#################################################
+- - - history
+
+![](https://github.com/nu11secur1ty/RADIUS-Ubuntu-20.04/blob/master/screen/radius.PNG)
+
+```bash
     1  apt update
     2  apt dist-upgrade
     3  apt update
@@ -94,10 +96,9 @@
    89  a2enmod php7.0
    90  a2enmod php7.4 
    91  systemctl restart apache2.service
-###########################################################
 
 # Mysql 
-Adm1nk@r@te
+Yourp@ss
 
 user: radiusadmin
 password: myStr0nP@ssW0rd
