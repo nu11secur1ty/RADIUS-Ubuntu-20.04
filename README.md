@@ -17,7 +17,7 @@
    10  ufw allow to any port 1812 proto udp
    11  ufw allow to any port 1813 proto udp
    12  ss -alun4 | grep -E ':1812|:1813'
-   13  apt install mariadb
+   13  ls -ld
    14  apt install mysql-server
    15  mysql_secure_installation 
    16  mysql -u root -p
