@@ -87,4 +87,7 @@ Ctrl + C
 # Documentation:
 
 [Getting-Started](https://wiki.freeradius.org/guide/Getting-Started)
+
 [building](https://wiki.freeradius.org/building/Home)
+
+[RHEL and Centos](https://wiki.freeradius.org/building/RHEL%20and%20Centos)
