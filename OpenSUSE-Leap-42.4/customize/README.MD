@@ -84,3 +84,7 @@ Ready to process requests
 ```bash
 Ctrl + C
 ```
+# Documentation:
+
+[Getting-Started](https://wiki.freeradius.org/guide/Getting-Started)
+[building](https://wiki.freeradius.org/building/Home)
