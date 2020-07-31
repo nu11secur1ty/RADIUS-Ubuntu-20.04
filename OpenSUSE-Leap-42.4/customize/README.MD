@@ -9,6 +9,8 @@ wget ftp://ftp.freeradius.org/pub/freeradius/freeradius-server-3.0.21.tar.gz
 
 ```bash
 zypper install libtalloc-devel gcc make 
+# If don't know what actually you should install you can use
+# yeast and you can choose all package `C, C++ Development`
 ```
 
 - - - Compiling without SSL
@@ -82,4 +84,3 @@ Ready to process requests
 ```bash
 Ctrl + C
 ```
-
