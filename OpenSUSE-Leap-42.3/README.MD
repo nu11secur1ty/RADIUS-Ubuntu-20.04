@@ -4,13 +4,13 @@
 
 - freeradius zypper package
 
-![](https://github.com/nu11secur1ty/RADIUS-Ubuntu-20.04/blob/master/OpenSUSE-Leap-42.4/screen/freeradius-depnd.png)
+![](https://github.com/nu11secur1ty/RADIUS-Ubuntu-20.04/blob/master/OpenSUSE-Leap-42.3/screen/freeradius-depnd.png)
 
 -------------------------------------------------------------------------------------------------------
 
 - php5 is not support from freeradius 
 
-![](https://github.com/nu11secur1ty/RADIUS-Ubuntu-20.04/blob/master/OpenSUSE-Leap-42.4/screen/php5-notsupport.png)
+![](https://github.com/nu11secur1ty/RADIUS-Ubuntu-20.04/blob/master/OpenSUSE-Leap-42.3/screen/php5-notsupport.png)
 
 **WARNING:** You should use `php7.4` who must be into the bash_profile shell!!! 
 
