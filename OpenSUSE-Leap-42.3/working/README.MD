@@ -103,4 +103,5 @@ If your test logins fail, review all the output to learn what went wrong. There 
 To learn how to fit a FreeRADIUS server in your network, see https://freeradius.org/documentation/ and https://networkradius.com/freeradius-documentation/ for in-depth references and howtos.
 
 - - - Resource:
+
 [Suse](http://ftp.opensuse.org/repositories/server:/SOGo/openSUSE_Leap_42.3/x86_64/)
