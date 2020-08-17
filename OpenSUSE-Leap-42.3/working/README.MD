@@ -18,6 +18,7 @@ First install the freeradius-server and freeradius-server-utils packages. Then e
 
 ```bash
 root # zypper in freeradius-server
+root # zypper install freeradius-server-utils
 root # cd /etc/raddb/certs
 root # ./bootstrap
 ```
