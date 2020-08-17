@@ -101,3 +101,6 @@ tux > radtest bob hello 192.168.2.100 0 testing123-1
 If your test logins fail, review all the output to learn what went wrong. There are several test users and test clients provided. The configuration files are full of useful information, and we recommend studying them. When you are satisfied with your testing and ready to create a production configuration, remove all the test certificates in /etc/raddb/certs and replace them with your own certificates, comment out all the test users and clients, and stop radiusd by pressing Ctrl–c. Manage the radiusd.service with systemctl, just like any other service.
 
 To learn how to fit a FreeRADIUS server in your network, see https://freeradius.org/documentation/ and https://networkradius.com/freeradius-documentation/ for in-depth references and howtos.
+
+- - - Resource:
+[Suse](http://ftp.opensuse.org/repositories/server:/SOGo/openSUSE_Leap_42.3/x86_64/)
